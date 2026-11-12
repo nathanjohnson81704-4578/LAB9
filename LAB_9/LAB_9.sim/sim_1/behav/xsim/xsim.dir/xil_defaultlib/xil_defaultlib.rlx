@@ -1,0 +1,9 @@
+0.7
+2020.2
+Dec 15 2024
+09:04:49
+/home/a02421147/LAB_9/LAB_9.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+/home/a02421147/LAB_9/LAB_9.srcs/sim_1/new/FSMDetectorTest.v,1794441480,verilog,,,,FSMDetectorTest,,uvm,,,,,,
+/home/a02421147/LAB_9/LAB_9.srcs/sim_1/new/ShiftDetectTest.v,1794435292,verilog,,,,ShiftDetectTest,,,,,,,,
+/home/a02421147/LAB_9/LAB_9.srcs/sources_1/new/FSMDetector.v,1794440637,systemVerilog,,,,FSMDetector,,uvm,,,,,,
+/home/a02421147/LAB_9/LAB_9.srcs/sources_1/new/ShiftDetect.v,1794434678,verilog,,/home/a02421147/LAB_9/LAB_9.srcs/sim_1/new/ShiftDetectTest.v,,ShiftDetect,,,,,,,,

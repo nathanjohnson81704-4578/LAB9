@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:31 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Wed Nov 11 16:39:54 2026
+# Process ID         : 1622785
+# Current directory  : /home/a02421147/LAB_9/LAB_9.runs/impl_1
+# Command line       : vivado -log FSMDetectorTop.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FSMDetectorTop.tcl -notrace
+# Log file           : /home/a02421147/LAB_9/LAB_9.runs/impl_1/FSMDetectorTop.vdi
+# Journal file       : /home/a02421147/LAB_9/LAB_9.runs/impl_1/vivado.jou
+# Running On         : el120-05.ece.usu.edu
+# Platform           : AlmaLinux
+# Operating System   : AlmaLinux 9.6 (Sage Margay)
+# Processor Detail   : Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+# CPU Frequency      : 4036.165 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16513 MB
+# Swap memory        : 8409 MB
+# Total Virtual      : 24923 MB
+# Available Virtual  : 13011 MB
+#-----------------------------------------------------------
+source FSMDetectorTop.tcl -notrace
